@@ -1,0 +1,12 @@
+<config>
+    <modules>
+        <Bb_Eav>
+			<version>0.1.0</version>
+            <active>true</active>
+            <codePool>community</codePool>
+			<depends>
+                <Mage_Eav />
+            </depends>
+        </Bb_Eav>
+    </modules>
+</config>
