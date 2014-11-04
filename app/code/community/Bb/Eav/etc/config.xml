@@ -12,7 +12,6 @@
             </bb_eav>
             <eav>
                 <rewrite>
-                    <entity_attribute_frontend_default>Bb_Eav_Model_Entity_Attribute_Frontend_Default</entity_attribute_frontend_default>
                     <entity_attribute_source_table>Bb_Eav_Model_Entity_Attribute_Source_Table</entity_attribute_source_table>
                 </rewrite>
             </eav>
