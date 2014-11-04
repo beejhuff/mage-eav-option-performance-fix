@@ -119,3 +119,7 @@ skin/frontend/default/modern/
 skin/frontend/enterprise
 skin/install/
 var/
+/.idea/*.name
+/.idea/*.xml
+/.idea/*.iml
+/.idea/scopes/*.xml
